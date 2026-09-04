@@ -27,18 +27,9 @@
 
 ### Output:
 
+<img width="1136" height="574" alt="image" src="https://github.com/user-attachments/assets/569064da-205d-4ad9-9c8f-e58313e4909c" />
 
-<img width="1917" height="1135" alt="Screenshot 2026-09-02 111627" src="https://github.com/user-attachments/assets/df00120c-d425-48b3-b08c-d32f62353a07" />
-
-
-<img width="1917" height="1136" alt="Screenshot 2026-09-02 111618" src="https://github.com/user-attachments/assets/67b1a159-945a-442a-a5fc-4b8e92806256" />
-
-
-<img width="1917" height="1135" alt="Screenshot 2026-09-02 111610" src="https://github.com/user-attachments/assets/1d30d055-1987-49d5-9a14-4384a7db7a67" />
-
-
-
+<img width="747" height="984" alt="image" src="https://github.com/user-attachments/assets/6485eb0d-9b3a-4947-aaf7-9e17eb56626f" />
 
 ### Result:
-
 Thus, Sentimental Analysis for the given data using Rapidminer is done successfully.
